@@ -15,7 +15,7 @@ MongoDB (either local or a cloud instance like MongoDB Atlas)
 
 First, clone the repository and navigate into the project folder:
 
-$ git clone https://github.com/your-repository/book-management-api.git
+$ git clone https://github.com/axix152/book-management.git
 $ cd book-management-api
 
 Install the project dependencies:
@@ -32,7 +32,7 @@ MONGO_URI=mongodb://localhost:27017/book-management
 
 # MongoDB Atlas connection string
 
-MONGO_URI=mongodb+srv://axixkhanii46:book-management%40123@cluster0.eo5eb.mongodb.net/book-management?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=MONGO_URI=mongodb+srv://axixkhanii46:book-management%40123@cluster0.eo5eb.mongodb.net/book-management?retryWrites=true&w=majority&appName=Cluster0
 
 ### Compile and Run the Project
 
